@@ -11,3 +11,7 @@
 *.lai
 *.la
 *.a
+
+#out pages dir
+*/out/
+pages/
