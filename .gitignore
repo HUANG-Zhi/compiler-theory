@@ -12,6 +12,5 @@
 *.la
 *.a
 
-#out pages dir
-*/out/*.o
+#sources for projects
 _sources/
