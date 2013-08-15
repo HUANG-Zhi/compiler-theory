@@ -14,5 +14,4 @@
 
 #out pages dir
 */out/*.o
-pages/
-_sources
+_sources/
