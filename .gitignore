@@ -13,6 +13,6 @@
 *.a
 
 #out pages dir
-*/out/
+*/out/*
 pages/
 _sources
