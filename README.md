@@ -1,4 +1,6 @@
-compiler-theory
-===============
+# compiler-theory
+##Detail
+[my blog: compiler-theory](http://huang-zhi.github.io/undergraduate/2012/08/19/Compiler-theory/).
+## License
 
-compiler theory project
+[MIT](http://opensource.org/licenses/MIT)
